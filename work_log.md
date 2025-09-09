@@ -10,6 +10,7 @@
 ## Achievements
 
 **09/09/2025**
+
 Git and github commands  
 
 
@@ -17,6 +18,8 @@ Git and github commands
 
 
 ## Monthly highlights
+
 **09/09/2025**
+
 Git and github competence
 Python programming basics
